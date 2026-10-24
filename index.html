@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="ShopEasy - a simple online store for everyday essentials.">
+  <title>ShopEasy | Home</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="brand" href="index.html" aria-label="ShopEasy home"><span class="brand-mark">S</span><span>Shop<span class="brand-accent">Easy</span></span></a>
+      <nav class="main-nav" aria-label="Main navigation">
+        <a href="index.html" aria-current="page">Home</a>
+        <a href="products.html">Products</a>
+        <a class="cart-link" href="cart.html">Cart <span class="cart-badge" id="cart-count">0</span></a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container hero-grid">
+        <div class="hero-copy">
+          <span class="eyebrow">WELCOME TO SHOPEASY</span>
+          <h1>Good finds for <span>everyday life.</span></h1>
+          <p>Discover useful everyday products at friendly prices. Browse, choose your favorites, and check out in a few easy steps.</p>
+          <a class="btn btn-primary" href="products.html">Explore products <span aria-hidden="true">→</span></a>
+          <div class="hero-note"><span class="note-dot"></span> Simple shopping, all in your browser</div>
+        </div>
+        <div class="hero-art" aria-label="Featured ShopEasy items">
+          <div class="hero-blob hero-blob-one"></div>
+          <div class="hero-blob hero-blob-two"></div>
+          <div class="hero-art-card hero-main-card">
+            <img src="images/headphones.svg" alt="Illustration of wireless headphones">
+          </div>
+          <div class="hero-art-card hero-small-card">
+            <img src="images/watch.svg" alt="Illustration of a smartwatch">
+          </div>
+          <div class="floating-label"><span>✦</span> Everyday favorites</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section container" aria-labelledby="featured-title">
+      <div class="section-heading">
+        <div><span class="eyebrow">HANDPICKED FOR YOU</span><h2 id="featured-title">Featured products</h2><p>A quick look at our popular picks.</p></div>
+        <a class="text-link" href="products.html">View all products <span aria-hidden="true">→</span></a>
+      </div>
+      <p id="loading-status" class="load-status" role="status" aria-live="polite">Loading...</p>
+      <div id="featured-grid" class="product-grid" aria-live="polite"></div>
+    </section>
+
+    <section class="section section-soft" aria-labelledby="faq-title">
+      <div class="container faq-layout">
+        <div class="faq-intro"><span class="eyebrow">NEED HELP?</span><h2 id="faq-title">Frequently asked questions</h2><p>Click a question to open or close the answer.</p></div>
+        <div class="faq-list">
+          <div class="faq-item"><button class="faq-question" type="button" aria-expanded="false">How do I add a product to my cart? <span aria-hidden="true">+</span></button><div class="faq-answer"><p>Open the Products page and select “Add to Cart” on the product you want.</p></div></div>
+          <div class="faq-item"><button class="faq-question" type="button" aria-expanded="false">Can I change product quantities? <span aria-hidden="true">+</span></button><div class="faq-answer"><p>Yes. On the Cart page, use the + and − buttons to change quantities or Remove to delete an item.</p></div></div>
+          <div class="faq-item"><button class="faq-question" type="button" aria-expanded="false">Does checkout place a real order? <span aria-hidden="true">+</span></button><div class="faq-answer"><p>No. This is a browser-only demonstration store with form validation and no backend.</p></div></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer"><div class="container footer-wrap"><span>© 2026 ShopEasy. Web Engineering Assignment 02.</span><span>Built with HTML, CSS, JavaScript &amp; jQuery.</span></div></footer>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="js/store.js"></script>
+  <script src="js/ui.js"></script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Browse and search ShopEasy products.">
+  <title>ShopEasy | Products</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header"><div class="container nav-wrap">
+    <a class="brand" href="index.html" aria-label="ShopEasy home"><span class="brand-mark">S</span><span>Shop<span class="brand-accent">Easy</span></span></a>
+    <nav class="main-nav" aria-label="Main navigation"><a href="index.html">Home</a><a href="products.html" aria-current="page">Products</a><a class="cart-link" href="cart.html">Cart <span class="cart-badge" id="cart-count">0</span></a></nav>
+  </div></header>
+
+  <main class="container main-content">
+    <section class="page-intro"><span class="eyebrow">FIND YOUR NEXT FAVORITE</span><h1>All products</h1><p>Search by name, choose a category, or sort products by price.</p></section>
+    <section aria-label="Product catalog">
+      <div class="filters">
+        <div class="filter-field filter-search"><label for="search-input">Search products</label><input type="search" id="search-input" placeholder="e.g. headphones" autocomplete="off"></div>
+        <div class="filter-field"><label for="category-filter">Category</label><select id="category-filter"><option value="all">All categories</option><option value="electronics">Electronics</option><option value="home">Home</option><option value="accessories">Accessories</option><option value="stationery">Stationery</option></select></div>
+        <div class="filter-field"><label for="sort-order">Sort by price</label><select id="sort-order"><option value="default">Default order</option><option value="low">Price: low to high</option><option value="high">Price: high to low</option></select></div>
+      </div>
+      <div class="results-line"><p id="results-count" aria-live="polite">Browse our collection</p></div>
+      <p id="loading-status" class="load-status" role="status" aria-live="polite">Loading...</p>
+      <div id="product-grid" class="product-grid" aria-live="polite"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer"><div class="container footer-wrap"><span>© 2026 ShopEasy. Web Engineering Assignment 02.</span><span>Built with HTML, CSS, JavaScript &amp; jQuery.</span></div></footer>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="js/store.js"></script>
+  <script src="js/ui.js"></script>
+</body>
+</html>

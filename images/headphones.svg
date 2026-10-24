@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="360" viewBox="0 0 400 360" role="img" aria-label="headphones illustration">
+<rect width="400" height="360" fill="#e5efe8"/>
+<circle cx="314" cy="86" r="110" fill="#d1e5da"/>
+<circle cx="72" cy="282" r="79" fill="#d1e5da" opacity=".7"/>
+<ellipse cx="200" cy="317" rx="102" ry="13" fill="#213a3d" opacity=".08"/>
+<path d="M112 174v-32a88 88 0 0 1 176 0v32" fill="none" stroke="#243c42" stroke-width="21" stroke-linecap="round"/><rect x="95" y="162" width="43" height="91" rx="20" fill="#2b7c64" stroke="#243c42" stroke-width="7"/><rect x="262" y="162" width="43" height="91" rx="20" fill="#2b7c64" stroke="#243c42" stroke-width="7"/><rect x="106" y="178" width="12" height="60" rx="6" fill="#9bdbbb"/><rect x="274" y="178" width="12" height="60" rx="6" fill="#9bdbbb"/>
+</svg>

@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 120,
+    "category": "electronics",
+    "rating": 4.7,
+    "inStock": true,
+    "image": "images/headphones.svg"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 185,
+    "category": "electronics",
+    "rating": 4.6,
+    "inStock": true,
+    "image": "images/watch.svg"
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth Speaker",
+    "price": 85,
+    "category": "electronics",
+    "rating": 4.5,
+    "inStock": true,
+    "image": "images/speaker.svg"
+  },
+  {
+    "id": 4,
+    "name": "Desk Lamp",
+    "price": 45,
+    "category": "home",
+    "rating": 4.8,
+    "inStock": true,
+    "image": "images/lamp.svg"
+  },
+  {
+    "id": 5,
+    "name": "Coffee Mug",
+    "price": 22,
+    "category": "home",
+    "rating": 4.4,
+    "inStock": true,
+    "image": "images/mug.svg"
+  },
+  {
+    "id": 6,
+    "name": "Notebook Set",
+    "price": 18,
+    "category": "stationery",
+    "rating": 4.6,
+    "inStock": true,
+    "image": "images/notebooks.svg"
+  },
+  {
+    "id": 7,
+    "name": "Everyday Backpack",
+    "price": 74,
+    "category": "accessories",
+    "rating": 4.7,
+    "inStock": true,
+    "image": "images/backpack.svg"
+  },
+  {
+    "id": 8,
+    "name": "Sunglasses",
+    "price": 55,
+    "category": "accessories",
+    "rating": 4.3,
+    "inStock": true,
+    "image": "images/sunglasses.svg"
+  },
+  {
+    "id": 9,
+    "name": "Phone Stand",
+    "price": 26,
+    "category": "accessories",
+    "rating": 4.5,
+    "inStock": true,
+    "image": "images/stand.svg"
+  },
+  {
+    "id": 10,
+    "name": "Wireless Mouse",
+    "price": 49,
+    "category": "electronics",
+    "rating": 4.6,
+    "inStock": true,
+    "image": "images/mouse.svg"
+  },
+  {
+    "id": 11,
+    "name": "Water Bottle",
+    "price": 28,
+    "category": "home",
+    "rating": 4.5,
+    "inStock": true,
+    "image": "images/bottle.svg"
+  },
+  {
+    "id": 12,
+    "name": "Color Pen Set",
+    "price": 16,
+    "category": "stationery",
+    "rating": 4.4,
+    "inStock": true,
+    "image": "images/pens.svg"
+  }
+]

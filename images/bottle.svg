@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="360" viewBox="0 0 400 360" role="img" aria-label="bottle illustration">
+<rect width="400" height="360" fill="#e7f3f1"/>
+<circle cx="314" cy="86" r="110" fill="#d6ece8"/>
+<circle cx="72" cy="282" r="79" fill="#d6ece8" opacity=".7"/>
+<ellipse cx="200" cy="317" rx="102" ry="13" fill="#213a3d" opacity=".08"/>
+<rect x="164" y="48" width="72" height="46" rx="12" fill="#2b7a77"/><rect x="157" y="86" width="86" height="33" rx="12" fill="#a1bdba"/><path d="M155 112h90l17 62v111q0 23-23 23h-78q-23 0-23-23V174z" fill="#67a9af" stroke="#377a7c" stroke-width="6"/><rect x="143" y="200" width="114" height="50" fill="#d8e9e1"/><path d="M165 218h70" stroke="#68a4a3" stroke-width="7"/>
+</svg>

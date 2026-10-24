@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="360" viewBox="0 0 400 360" role="img" aria-label="mouse illustration">
+<rect width="400" height="360" fill="#e9f0f1"/>
+<circle cx="314" cy="86" r="110" fill="#d5e3e4"/>
+<circle cx="72" cy="282" r="79" fill="#d5e3e4" opacity=".7"/>
+<ellipse cx="200" cy="317" rx="102" ry="13" fill="#213a3d" opacity=".08"/>
+<rect x="141" y="81" width="118" height="228" rx="59" fill="#587b85" stroke="#3a5961" stroke-width="7"/><path d="M200 88v90M145 177h110" fill="none" stroke="#aacfc9" stroke-width="8"/><rect x="191" y="118" width="18" height="41" rx="9" fill="#ddf1e6"/>
+</svg>

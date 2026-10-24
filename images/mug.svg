@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="360" viewBox="0 0 400 360" role="img" aria-label="mug illustration">
+<rect width="400" height="360" fill="#f9e7e1"/>
+<circle cx="314" cy="86" r="110" fill="#f5dacd"/>
+<circle cx="72" cy="282" r="79" fill="#f5dacd" opacity=".7"/>
+<ellipse cx="200" cy="317" rx="102" ry="13" fill="#213a3d" opacity=".08"/>
+<path d="M114 133h162v109c0 40-29 63-80 63s-82-23-82-63z" fill="#e1ad7e"/><path d="M274 160h22c43 0 43 70-22 70" fill="none" stroke="#bc7953" stroke-width="19"/><ellipse cx="195" cy="133" rx="81" ry="20" fill="#f4d5af"/><ellipse cx="195" cy="133" rx="66" ry="10" fill="#6c4841"/><path d="M172 89q-22-21 0-40M216 89q-21-21 0-40" fill="none" stroke="#bb9b83" stroke-width="7" stroke-linecap="round"/>
+</svg>

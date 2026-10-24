@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="360" viewBox="0 0 400 360" role="img" aria-label="lamp illustration">
+<rect width="400" height="360" fill="#faf0df"/>
+<circle cx="314" cy="86" r="110" fill="#f0dec2"/>
+<circle cx="72" cy="282" r="79" fill="#f0dec2" opacity=".7"/>
+<ellipse cx="200" cy="317" rx="102" ry="13" fill="#213a3d" opacity=".08"/>
+<path d="M184 278h74" stroke="#29465b" stroke-width="13" stroke-linecap="round"/><path d="M215 275l-26-104 49-55" fill="none" stroke="#3b6c72" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/><path d="M223 91l-65 59-34-48c31-41 66-43 99-11z" fill="#e9b966" stroke="#b98f55" stroke-width="6"/><circle cx="215" cy="276" r="12" fill="#29465b"/><path d="M142 156l-23 43" stroke="#f5d996" stroke-width="10" opacity=".65"/>
+</svg>

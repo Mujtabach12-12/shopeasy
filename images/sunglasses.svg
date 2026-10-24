@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="360" viewBox="0 0 400 360" role="img" aria-label="sunglasses illustration">
+<rect width="400" height="360" fill="#ebedef"/>
+<circle cx="314" cy="86" r="110" fill="#dce3e7"/>
+<circle cx="72" cy="282" r="79" fill="#dce3e7" opacity=".7"/>
+<ellipse cx="200" cy="317" rx="102" ry="13" fill="#213a3d" opacity=".08"/>
+<path d="M74 164h73l24 16h58l24-16h73" fill="none" stroke="#3d343c" stroke-width="14" stroke-linecap="round"/><path d="M75 176l13 57q9 35 50 35c35 0 53-21 54-62v-29z" fill="#567d87" stroke="#30353d" stroke-width="11"/><path d="M208 176v30c1 41 19 62 54 62q41 0 50-35l13-57z" fill="#567d87" stroke="#30353d" stroke-width="11"/><path d="M99 188h63M223 188h68" stroke="#c2e0da" stroke-width="8" opacity=".7"/>
+</svg>

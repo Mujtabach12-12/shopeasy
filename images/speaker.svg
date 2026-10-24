@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="360" viewBox="0 0 400 360" role="img" aria-label="speaker illustration">
+<rect width="400" height="360" fill="#ebf1f0"/>
+<circle cx="314" cy="86" r="110" fill="#d6e3dc"/>
+<circle cx="72" cy="282" r="79" fill="#d6e3dc" opacity=".7"/>
+<ellipse cx="200" cy="317" rx="102" ry="13" fill="#213a3d" opacity=".08"/>
+<rect x="124" y="77" width="152" height="219" rx="35" fill="#253b4c"/><rect x="137" y="89" width="126" height="194" rx="26" fill="#346f74"/><circle cx="200" cy="205" r="58" fill="#1b3b47" stroke="#80b9a5" stroke-width="8"/><circle cx="200" cy="205" r="31" fill="#79b6a9"/><circle cx="200" cy="121" r="11" fill="#d9f1dc"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="360" viewBox="0 0 400 360" role="img" aria-label="watch illustration">
+<rect width="400" height="360" fill="#edf0e7"/>
+<circle cx="314" cy="86" r="110" fill="#dae5d2"/>
+<circle cx="72" cy="282" r="79" fill="#dae5d2" opacity=".7"/>
+<ellipse cx="200" cy="317" rx="102" ry="13" fill="#213a3d" opacity=".08"/>
+<rect x="167" y="49" width="67" height="258" rx="21" fill="#5a7c7c"/><rect x="132" y="112" width="136" height="132" rx="34" fill="#182c37"/><rect x="143" y="123" width="114" height="110" rx="27" fill="#d7f1e4"/><circle cx="200" cy="178" r="35" fill="#2d8369"/><path d="M200 153v28l21 13" stroke="white" stroke-width="7" stroke-linecap="round" fill="none"/>
+</svg>

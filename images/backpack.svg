@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="360" viewBox="0 0 400 360" role="img" aria-label="backpack illustration">
+<rect width="400" height="360" fill="#e1efed"/>
+<circle cx="314" cy="86" r="110" fill="#cde7df"/>
+<circle cx="72" cy="282" r="79" fill="#cde7df" opacity=".7"/>
+<ellipse cx="200" cy="317" rx="102" ry="13" fill="#213a3d" opacity=".08"/>
+<path d="M166 112V92a34 34 0 0 1 68 0v20" fill="none" stroke="#315b63" stroke-width="16"/><path d="M108 154c0-47 35-75 92-75s92 28 92 75v131a22 22 0 0 1-22 22H130a22 22 0 0 1-22-22z" fill="#427f83"/><rect x="130" y="183" width="140" height="103" rx="25" fill="#74ada7"/><path d="M168 141h65" stroke="#e3e3a2" stroke-width="10" stroke-linecap="round"/><rect x="180" y="210" width="40" height="14" rx="7" fill="#e8cc83"/>
+</svg>
